@@ -1,0 +1,4 @@
+"this is the vimrc for macvim
+
+"set font 
+set guifont=Menlo-Regular:h22
