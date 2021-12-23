@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =3
+let g:netrw_dirhist_3='/Users/kartikkumar/Downloads/Vim Stuff/vimrc/myrcs/new config'
+let g:netrw_dirhist_2='/Users/kartikkumar/Downloads/Vim Stuff/vimrc/myrcs'
+let g:netrw_dirhist_1='/Users/kartikkumar/Downloads/Vim Stuff/vimrc'
+let g:netrw_dirhist_0='/Users/kartikkumar/Downloads/Vim Stuff'
+let g:netrw_dirhist_9='/Users/kartikkumar/Documents/Python/HeadFirst/webapp/static'
+let g:netrw_dirhist_8='/Users/kartikkumar/Documents/Python/HeadFirst'
+let g:netrw_dirhist_7='/Users/kartikkumar/Documents/Practise/chrome-extension/basic'
+let g:netrw_dirhist_6='/Users/kartikkumar/Documents/Practise/chrome-extension'
+let g:netrw_dirhist_5='/Users/kartikkumar/Documents/Practise'
+let g:netrw_dirhist_4='/Users/kartikkumar/Documents/Practise/chrome-extension'

@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =7
+let g:netrw_dirhist_7='/Users/kartikkumar/Documents/Practise/chrome-extension/basic'
+let g:netrw_dirhist_6='/Users/kartikkumar/Documents/Practise/chrome-extension'
+let g:netrw_dirhist_5='/Users/kartikkumar/Documents/Practise'
+let g:netrw_dirhist_4='/Users/kartikkumar/Documents/Practise/chrome-extension'
+let g:netrw_dirhist_3='/Users/kartikkumar/Documents/Practise/chrome-extension/basic'
+let g:netrw_dirhist_2='/Users/kartikkumar/Documents/Becker-Project/Frontend/GALE-Becker-Dashboard/client/src/components/pages/login'
+let g:netrw_dirhist_1='/Users/kartikkumar/Documents/Becker-Project/Frontend/GALE-Becker-Dashboard/client/src'
+let g:netrw_dirhist_0='/Users/kartikkumar/Documents/Becker-Project/Frontend/GALE-Becker-Dashboard/client'
+let g:netrw_dirhist_9='/Users/kartikkumar/Documents/Becker-Project/Frontend/GALE-Becker-Dashboard'
+let g:netrw_dirhist_8='/Users/kartikkumar/Documents/Becker-Project/Frontend/GALE-Becker-Dashboard/client/src'
